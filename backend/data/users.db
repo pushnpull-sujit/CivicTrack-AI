@@ -1,0 +1,7 @@
+{"_id":"6ro4ql600sq","email":"sujit@gmail.com","password":"$2a$10$5P4uecFnWWfqb0MBB.snJu.GEVjZDkLWMpA4G.2XEkzqAVfHrJotS","name":"sujit","role":"citizen","createdAt":{"$$date":1782545849489}}
+{"_id":"9qqdjtzpnxs","email":"sujitchaudhary@gmail.com","password":"$2a$10$Fm.F7bVf9tzyemy6Civx9exYQ1HWlsBMg6DHEpHjR..U.ODZCrqki","name":"sujit kumar","role":"citizen","createdAt":{"$$date":1782546410416}}
+{"_id":"qbynfaiu9ks","email":"sarah@example.com","password":"$2a$10$TjMRwvHseCXUnc4cBgCVgOP.5zDB8MeVSvUtVhGodoSNYtS9UlOEq","name":"Sarah Citizen","role":"citizen","createdAt":{"$$date":1782546893773}}
+{"_id":"usr-admin","email":"admin@civictrack.ai","password":"$2a$10$UCXGvV67nDC1UzcOFljshOvF/AIUggypDUP2s8wutvKnIsKs5AuWu","name":"Chief Admin Commissioner","role":"admin","createdAt":{"$$date":1782545782176}}
+{"_id":"usr-citizen","email":"citizen@civictrack.ai","password":"$2a$10$UCXGvV67nDC1UzcOFljshOvF/AIUggypDUP2s8wutvKnIsKs5AuWu","name":"Sarah Citizen","role":"citizen","createdAt":{"$$date":1782545782176}}
+{"_id":"usr-staff1","email":"staff@civictrack.ai","password":"$2a$10$UCXGvV67nDC1UzcOFljshOvF/AIUggypDUP2s8wutvKnIsKs5AuWu","name":"Marcus Specialist (Roads)","role":"staff","createdAt":{"$$date":1782545782176}}
+{"_id":"usr-staff2","email":"electrician@civictrack.ai","password":"$2a$10$UCXGvV67nDC1UzcOFljshOvF/AIUggypDUP2s8wutvKnIsKs5AuWu","name":"Elena Electra (Utilities)","role":"staff","createdAt":{"$$date":1782545782176}}
